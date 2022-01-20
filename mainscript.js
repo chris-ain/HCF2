@@ -238,7 +238,7 @@ window.addEventListener("load", function(event) {
 
                    const projTL = gsap.timeline()
                     projTL.to(".img_fullscreen", {
-                      delay: 0.8,
+                      delay: 0.3,
                       opacity: 0.5,
                       duration: 1,
                     });

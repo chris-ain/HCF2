@@ -578,7 +578,7 @@ window.addEventListener("load", function(event) {
                         trans.in();	
                         },2000);
 
-                        curtainsMainTrans()
+                        curtainsMainTransFunc()
                     
                     });
                     gsap.to(".page_wrap",{ autoAlpha: 1, duration: 1, delay:.5 });

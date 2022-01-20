@@ -418,7 +418,7 @@ window.addEventListener("load", function(event) {
                 $(document).ready(function () {
                   setTimeout(function () {
                     trans.in();	
-                    },2000);
+                    },300);
 
                     projfunc(smoothScroll);
                     document.querySelectorAll('.plane').forEach(item => {

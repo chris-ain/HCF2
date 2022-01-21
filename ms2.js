@@ -341,6 +341,12 @@ window.addEventListener("load", function(event) {
 
             afterEnter() {
               gsap.to(".page_wrap",{ opacity: 1, autoAlpha: 1, duration: 1, delay:.5 });
+              
+
+$('.checkbox_field').click(function(){
+    this.style.backgroundColor = this.style.backgroundColor == 'white' ? 'transparent' : 'white';
+});
+
             },
   
             beforeLeave(data) {

@@ -1,4 +1,4 @@
-import { chessScene, id} from "https://cdn.statically.io/gh/chris-ain/HCF2/main/schachgit.js";
+import { chessScene, id} from "https://cdn.statically.io/gh/chris-ain/HCF2/main/scacco.js";
 import { curtains, curtainsmain } from "https://cdn.statically.io/gh/chris-ain/HCF/main/curtainsmain.js";
 import { curtainsTrans,curtainsTransFunc } from "https://cdn.statically.io/gh/chris-ain/HCF/main/curtainsTrans.js";
 import { curtainsAg, curtainsgenturfunc } from "https://cdn.statically.io/gh/chris-ain/HCF/main/curtainsagentur.js";
